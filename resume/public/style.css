@@ -1,0 +1,18 @@
+html {
+  background-color: bisque;
+}
+h1 {
+  text-align: center;
+  color: orange;
+}
+.container {
+  margin-top: 300px;
+}
+.note {
+  color: green;
+  font-size: large;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+  font-style: normal;
+}

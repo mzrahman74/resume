@@ -1,0 +1,30 @@
+.center {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: yellowgreen;
+}
+.resume {
+  text-align: center;
+  font-size: large;
+  list-style-position: inside;
+}
+
+#id-footer {
+  text-align: center;
+  background-color: yellowgreen;
+}
+html {
+  background-color: darkgray;
+}
+h1 {
+  text-align: center;
+  background-color: yellowgreen;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
